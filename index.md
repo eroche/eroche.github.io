@@ -1,7 +1,5 @@
 # Emmanuel Roche's personal page
 
-![A](picture/ER_PictureID.png | width=300)
-
 <img src="https://github.com/eroche/eroche.github.io/blob/main/picture/ER_PictureID.png"  width="100">
 
 
