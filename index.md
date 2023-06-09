@@ -1,6 +1,6 @@
 # Emmanuel Roche's personal page
 
-<img src="https://github.com/eroche/eroche.github.io/blob/main/picture/ER_PictureID.png"  width="100">
+<img src="https://eroche.github.io/picture/ER_PictureID.png"  width="100">
 
 
 # Current Work (Language Processing)
