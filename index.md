@@ -9,9 +9,9 @@ Interest in language and languages can easily become obsesive. It is for me. Her
 * What is syntax? Does it exist? Can it be described formally and operationally? How much of it can be done mechanically? I look at these questions through my work on parsing/finite-state processing mostly?
 * Can we separate what LLMs know about language from what they know about the world?
 * How much symbolicity, logic in Language vs how much of "soft" processing (a la Deep Learning)?
-* what type of logic permeates through language? (partial answer: many kinds of logic)
+* what type of logic permeates through language? (partial answer: many kinds of logic interacting together)
 * What's the limit in efficiency for Second Language Acquisition? What does it teach us about the nature of language?
-* The origin of languages (I am very much of Daniel Everett's school on that matter): can parsing and formal syntax analysis plot a plausible path of language evolution? (at the scale of human evolution; not at the century or millenia scale, which is a different kind of question)
+* The origin of languages (I am very much of the Daniel L. Everett school on that matter): can parsing and formal syntax analysis plot a plausible path of language evolution? (at the scale of human evolution; not at the century or millenia scale, which is a different kind of question)
 * More generally, what is the nature of language? 
 
 # Recent Work (NLP)
@@ -36,5 +36,5 @@ You can also check out a recent write-up that Chen Tong (teaching Chinese at MIT
 
 
 
-
+Full CV [here](cv/ER_Resume_2023.pdf).
 
