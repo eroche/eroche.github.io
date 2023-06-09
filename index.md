@@ -2,7 +2,7 @@
 
 picture/ER_PictureID.png
 
-![](picture/ER_PictureID.png)
+![](picture/ER_PictureID.png| width=300)
 
 
 # Current Work (Language Processing)
@@ -15,7 +15,9 @@ Symbolic parsing is possible! This is a large part of what I have been working o
 
 ## Hybridization
 
-As mentioned above, symbolic parsing is indeed possible, it's actually also useful in the context of modern LLMs. Hybridization represents an attempt at combining two ways to analyze and understand language: symbolic processing and LLM's deep learning techniques. Contrary to recent claims, deep learning is not the only biologically plausible way to analyze language. Symbolic processing is equally natural, or biologically plausible, and there is a simple proof for that claim: natural language exists.
+As mentioned above, symbolic parsing is indeed possible, it's actually also useful in the context of modern LLMs. Hybridization represents an attempt at combining two ways to analyze and understand language: symbolic processing and LLM's deep learning techniques. Contrary to recent claims, deep learning is not the only biologically plausible way to analyze language. Symbolic processing is equally natural, or biologically plausible, and there is a simple proof for that claim: natural language exists. It probably tells us something about the nature of language.
+
+
 
 
 
