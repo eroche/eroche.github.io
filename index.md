@@ -1,5 +1,9 @@
 # Emmanuel Roche's personal page
 
+picture/ER_PictureID.png
+
+![](picture/ER_PictureID.png)
+
 
 # Current Work (Language Processing)
 
