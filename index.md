@@ -11,7 +11,7 @@ Interest in language and languages can easily become obsesive. It is for me. Her
 * How much symbolicity, logic in Language vs how much of "soft" processing (a la Deep Learning)?
 * what type of logic permeates through language? (partial answer: many kinds of logic interacting together)
 * What's the limit in efficiency for Second Language Acquisition? What does it teach us about the nature of language?
-* The origin of languages (I am very much of the Daniel L. Everett school on that matter): can parsing and formal syntax analysis plot a plausible path of language evolution? (at the scale of human evolution; not at the century or millenia scale, which is a different kind of question)
+* The origin of languages (I am very much of the Daniel L. Everett school on that matter): can parsing and formal syntax analysis help plot a plausible, and, ideally, testable, path of language evolution? (at the scale of human evolution; not at the century or millenia scale, which is a different kind of question)
 * More generally, what is the nature of language? 
 
 # Recent Work (NLP)
