@@ -36,7 +36,7 @@ My first few years of learning Chinese were both exhilarating and incredibly fru
 
 You can also check out a recent write-up that Chen Tong (teaching Chinese at MIT) and I have recently put together.
 
-[Emmanuel Roche and Chen Tong. 2023. FullChinese at MIT: A Non-Disruptive Integration of Technology for Intermediate Students](chinese_learning/RocheChen_2023_v2.pdf)
+[Emmanuel Roche and Chen Tong. 2023. FullChinese at MIT: A Non-Disruptive Integration of Technology for Intermediate Students](chinese_learning/RocheChen_2023.pdf)
 
 
 
